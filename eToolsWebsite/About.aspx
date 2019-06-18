@@ -16,7 +16,7 @@
             <asp:Label ID="BehnamLabel" runat="server" Text="Behnam Farhangmehr"></asp:Label>
             <br />
             <asp:Image ID="BehnamImage" runat="server" 
-                ImageUrl="~/Images/PhotoPlaceholder.png" 
+                ImageUrl="~/Images/Ben.png" 
                 Width="100%" />
         </div>
 
